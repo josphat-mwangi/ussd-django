@@ -1,6 +1,13 @@
+africastalking==1.2.8
 asgiref==3.8.1
+certifi==2024.7.4
+charset-normalizer==3.3.2
 dj-database-url==2.2.0
 Django==5.0.7
+idna==3.7
 python-dotenv==1.0.1
+requests==2.32.3
+schema==0.7.7
 sqlparse==0.5.1
 typing_extensions==4.12.2
+urllib3==2.2.2
